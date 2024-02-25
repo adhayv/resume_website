@@ -1,0 +1,48 @@
+/*.about-section {
+    padding: 50px 0;
+  }
+  
+  .about-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .about-image {
+    transform: scale(0.5);
+  }
+  
+  .about-image img {
+    padding-left: 20px;
+  }
+  
+  .about-text {
+    flex: 2;
+    padding-left: 5px;
+  }
+  
+  .about-text h2 {
+    font-size: em;
+    margin-bottom: 20px;
+  }
+  
+  .about-text p {
+    font-size: 1.2em;
+    line-height: 1.5;
+  }*/
+
+  .about-content {
+    display: flex;
+       
+  }
+  
+  .about-image {
+    width: 50%;
+    height: 50%;
+    flex: 1;
+  }
+
+  .about-text {
+    flex: 1;
+    padding-left: 10px;
+  }
